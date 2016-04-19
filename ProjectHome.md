@@ -1,0 +1,1 @@
+Sample application that manages multiple segmented downloads and supports HTTP, FTP and YouTube video downloads.
